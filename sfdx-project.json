@@ -3,12 +3,12 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "Recruitment Core",
+            "package": "Recruitment",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
     ],
-    "name": "Copado-Demo-2-RecruitmentCore",
+    "name": "Copado-Demo-2-Recruitment",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "56.0",
