@@ -1,18 +1,18 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "Recruitment Core",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        }
-    ],
-    "name": "Copado-Demo-2-RecruitmentCore",
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "56.0",
-    "packageAliases": {
-        "Recruitment Core": "0Ho8d000000Kz3YCAS"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Recruitment Core",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
+  ],
+  "name": "Copado-Demo-2-RecruitmentCore",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0",
+  "packageAliases": {
+    "Recruitment Core": "0Ho8d000000Kz3YCAS"
+  }
 }
