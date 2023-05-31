@@ -13,6 +13,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "56.0",
     "packageAliases": {
-        "Recruitment Core": "0Ho8d000000Kz3YCAS"
+        "Recruitment Core": "0Ho8d000000Kz3YCAS",
+        "Recruitment": "0Ho8d000000Kz5ACAS"
     }
 }
