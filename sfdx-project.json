@@ -1,14 +1,15 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "package": "Recruitment",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": true
-        }
-    ],
-    "packageAliases": {
-        "Recruitment": "0Ho8d000000Kz5FCAS"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "Recruitment",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": true
     }
+  ],
+  "packageAliases": {
+    "Recruitment": "0Ho8d000000Kz5FCAS"
+  },
+  "sourceApiVersion": "57.0"
 }
